@@ -52,11 +52,9 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
     Any physical or virtual component of limited availability within a computer system.
 
 -   [ ] What can the API return to help clients know if a request was successful?
-    
     Status or Token.
 
 -   [ ] How can we partition our application into sub-applications?
-    
     By utilizing express routing you can seperate all your routes, middleware into seperate categories.
 
 ## Minimum Viable Product
